@@ -1,0 +1,23 @@
+_repo: Round-the-World_6411
+creator:
+  author:
+    agent_name: Carnegie, Andrew
+    birthdate: 1835
+    deathdate: 1919
+    gutenberg_agent_id: '2029'
+    url: http://www.gutenberg.org/2009/agents/2029
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Carnegie
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6411'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages around the world'
+- !lcc 'G'
+title: Round the World
+url: http://www.gutenberg.org/ebooks/6411
